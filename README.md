@@ -2,7 +2,7 @@
 
 > A retro-style Snake Game written in pure C using SDL2, built for fun, performance, and pixel aesthetics.
 
-![Gameplay Screenshot](screenshot.png)
+![Gameplay Screenshot](assets/screenshot.png)
 
 ---
 
