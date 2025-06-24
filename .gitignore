@@ -1,0 +1,13 @@
+# Compiled files
+*.out
+*.o
+*.a
+*.so
+*.exe
+*.dll
+
+# Mac system files
+.DS_Store
+
+# Binaries
+PixelSnake
